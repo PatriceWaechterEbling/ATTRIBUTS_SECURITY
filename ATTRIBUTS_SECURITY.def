@@ -1,0 +1,8 @@
+LIBRARY	ATTRIBUTS_SECURITY
+EXPORTS
+	SecuriteDesactiveePourTousW
+	SecuriteDesactiveePourTousA
+	CreerDossierHackSecuriteAttributsW
+	CreerDossierHackSecuriteAttributsA
+	CreerDossierAvecSecuriteW
+	CreerDossierAvecSecuriteA
